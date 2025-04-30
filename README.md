@@ -1,2 +1,3 @@
 # Pygame-Starter
 Start Pygame With This Script.
+This is very simple and should be easy to use...
